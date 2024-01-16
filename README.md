@@ -2,10 +2,19 @@
 
 This project is a Psychiatry Center Management System that provides APIs for managing psychiatrists, patients, and hospitals.
 
-## Libraries/Frameworks Used
+## Frameworks Used
 - **Node.js**
 - **Express.js** 
 - **MySQL**
+  
+## Libraries Used
+- **bcrypt** (Version 5.1.1): Used for hashing passwords securely.
+- **body-parser** (Version 1.20.2): Middleware to parse incoming request bodies.
+- **express** (Version 4.18.2): Web application framework for Node.js.
+- **mysql2** (Version 3.7.0): MySQL database connectivity for Node.js.
+- **validator** (Version 13.11.0): A library for string validation and sanitization.
+
+
   
 ## API Endpoints
 
